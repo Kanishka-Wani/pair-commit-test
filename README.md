@@ -1,2 +1,2 @@
 # pair-commit-test
-Testing co-author commit!
+Testing co-author's commit!
